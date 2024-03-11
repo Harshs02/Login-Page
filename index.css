@@ -1,0 +1,33 @@
+Body {
+font-family: 'Courier New', Courier, monospace;
+background-color: aqua;
+background-image: url(https://wallpapercave.com/wp/wp6258149.jpg) ;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.container{
+width: auto;
+padding: 10px 18px;
+font-size: large;
+
+}
+button{
+color:aqua;
+margin: 8px 0;
+border: 2px solid rgb(204, 204, 204);
+color: black;
+}
+button:hover{
+opacity: 0.7;
+}
+
+#box{
+
+background-image: url(https://wallpapercave.com/wp/wp6258149.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+-webkit-background-clip: text;
+width: 200px;
+height:100px;
+}
